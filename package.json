@@ -1,0 +1,14 @@
+{
+  "name": "meanStack1",
+  "version": "0.0.0",
+  "description": "Turotial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jeff",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.16.2"
+  }
+}

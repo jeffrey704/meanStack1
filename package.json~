@@ -1,0 +1,14 @@
+{
+  "name": "meanStack1",
+  "version": "0.0.0",
+  "description": "Turotial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.16.2"
+  }
+}
