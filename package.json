@@ -1,6 +1,6 @@
 {
-  "name": "meanStack1",
-  "version": "0.0.0",
+  "name": "meanstack1",
+  "version": "1.0.0",
   "description": "Turotial",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,16 @@
   "author": "Jeff",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "express": "~4.16.2"
-  }
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffrey704/meanStack1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeffrey704/meanStack1/issues"
+  },
+  "homepage": "https://github.com/jeffrey704/meanStack1#readme"
 }
